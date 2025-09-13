@@ -6,7 +6,7 @@ Neural network made from scratch using just numpy and math!
 This project implements a fully connected neural network for digit classification on the MNIST dataset using only NumPy.
 The focus is on understanding the math behind forward propagation, backpropagation, and gradient descent without relying on high-level frameworks like TensorFlow or PyTorch.
 
-[You can see my network here!]([[url](https://www.kaggle.com/code/shrish34/neural-network-for-digit-classification)])
+You can test my network here: https://www.kaggle.com/code/shrish34/neural-network-for-digit-classification
 
 ## Objectives
 
