@@ -60,7 +60,6 @@ Trains on 28×28 MNIST images (flattened into 784-dimensional vectors).
 
 Achieves reasonable accuracy (~82%)
 
-Training/validation curves are plotted in the notebook.
 
 ## Requirements
 
